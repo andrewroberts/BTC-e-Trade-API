@@ -1,7 +1,7 @@
 BTC-e Trade API
 ===============
 
-BTC-e.com is a Bitcoin Trading site that provides an API to make trades, get transaction history, etc. This Google Apps Script uses this API.
+!!!!!!! STOP PRESS !!!!!!!!! - This site has been closed down by the US Government!
 
 <a href="https://btc-e.com/">BTC-e.com</a> is a Bitcoin Trading site that provides <a title="BTC-e Trade API" href="https://hdbtce.kayako.com/Knowledgebase/Article/View/26/4/trade-api-en">an API</a> to make trades, get transaction history, etc. I've written<a title="BTC-e Trade API using Google Apps Script" href="https://script.google.com/d/1h0lMczEZ6OXedJxfbuOwOZKdLY5pU1u8aMTwdTKxfiOfTaGCkocphFj7/edit?usp=sharing"> a Google Apps Script that uses this BTC-e Trade API</a>.
 
